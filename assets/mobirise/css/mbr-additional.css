@@ -1337,27 +1337,3 @@ body {
   height: auto;
   min-height: 100vh;
 }
-.cid-qtZRbFkb7g {
-  background-color: #073b4c;
-}
-.cid-qtZRbFkb7g .form-container {
-  transition: all .2s;
-  border: 1px solid #ffffff;
-  padding: 1rem;
-  background: linear-gradient(#073b4c, #55b4d4);
-  border: none;
-}
-.cid-qtZRbFkb7g .input-group-btn {
-  justify-content: center;
-}
-@media (min-width: 768px) {
-  .cid-qtZRbFkb7g .content-container {
-    padding-right: 5rem;
-  }
-}
-.cid-qtZRbFkb7g H1 {
-  text-align: center;
-}
-.cid-qtZRbFkb7g I {
-  color: #f7ed4a;
-}
